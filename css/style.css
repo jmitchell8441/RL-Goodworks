@@ -131,3 +131,9 @@ h2{
   color:white;
   transition-duration: 400ms;
 }
+
+@media screen and (min-width:480px){
+  graphic img {
+    display: none;
+  }
+}
